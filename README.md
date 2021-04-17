@@ -1,5 +1,4 @@
 # Infrastructure_and_Cloud_Computing
-<p>MBA Engenharia de Software</p>
 
 <p>Professor: João Henrique Victorino da Silva</p
 <p>Aluno: Rafaela dos Santos Silva<p>
